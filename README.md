@@ -224,18 +224,3 @@ For native builds, install the [prerequisite](#prerequisites) *System Packages*.
     ```bash
     pip3 install $TRT_RELEASE/python/tensorrt-7.2.1.6-cp36-none-linux_x86_64.whl
     ```
-
-# References
-
-## TensorRT Resources
-
-* [TensorRT Homepage](https://developer.nvidia.com/tensorrt)
-* [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html)
-* [TensorRT Sample Support Guide](https://docs.nvidia.com/deeplearning/tensorrt/sample-support-guide/index.html)
-* [TensorRT Discussion Forums](https://devtalk.nvidia.com/default/board/304/tensorrt/)
-* [TensorRT Release Notes](https://docs.nvidia.com/deeplearning/tensorrt/release-notes/index.html).
-
-## Known Issues
-
-#### TensorRT 7.2.1
-* None
