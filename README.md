@@ -2,10 +2,7 @@
 
 # REBOTNIX VISION TOOLS FOR GUSTAV INDUSTRIAL SOLUTIONS 
 # TensorRT Open Source Software
-This repository contains the Open Source Software (OSS) components of NVIDIA TensorRT. Included are the sources for TensorRT plugins and parsers (Caffe and ONNX), as well as sample applications demonstrating usage and capabilities of the TensorRT platform. These open source software components are a subset of the TensorRT General Availability (GA) release with some extensions and bug-fixes.
-
-* For code contributions to TensorRT-OSS, please see our [Contribution Guide](CONTRIBUTING.md) and [Coding Guidelines](CODING-GUIDELINES.md).
-* For a summary of new additions and updates shipped with TensorRT-OSS releases, please refer to the [Changelog](CHANGELOG.md).
+This repository contains the Open Source Software (OSS) components of NVIDIA TensorRT that we use for all our hardware and software plattforms.
 
 # Build
 
